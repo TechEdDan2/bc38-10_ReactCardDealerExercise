@@ -15,7 +15,9 @@ This is a simple React application built with Vite that simulates dealing cards 
 The React + Vite Card Dealer application provides a user-friendly interface to interact with a virtual deck of cards. Users can shuffle the deck and deal a specified number of cards, which are then displayed on the screen. The application demonstrates the use of React.
 
 ## Screenshots
-![Screenshot 1](./screenshots/screenshot1.png) WILL ADD LATER
+![Screenshot: Start](/public/Screenshot_start.png)
+![Screenshot: Dealt Cards](/public/Screenshot_deal.png)
+![Screenshot: Out of Cards](/public/Screenshot_end.png)
 
 ## Installation
 To run this project locally, follow these steps:    
